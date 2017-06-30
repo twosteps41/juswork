@@ -1,0 +1,455 @@
+._1aic {
+	min-width: 335px
+}
+
+._5ud_ {
+	width: 100%
+}
+
+._49v0 {
+	width: 200px
+}
+
+._aop {
+	color: #666
+}
+
+._5ud_ a {
+	font-size: 15px;
+	font-weight: 500
+}
+
+._2riv._2riv {
+	background-color: #4080ff;
+	color: #fff
+}
+
+._2riv .uiButton, ._2riv ._2ehu._2ehu {
+	background-color: transparent;
+	background-image: none;
+	border-color: rgba(255, 255, 255, .8);
+	border-radius: 2px;
+	border-style: solid;
+	border-width: 1px;
+	color: #fff;
+	padding: 1px 12px 1px 12px
+}
+
+._2riv .uiButton:hover, ._2riv ._2ehu._2ehu:hover {
+	background-color: rgba(0, 0, 0, .2);
+	border-color: rgba(255, 255, 255, .8)
+}
+
+._2riv .uiButton .uiButtonText, ._2riv .uiButton input {
+	color: #fff;
+	font-weight: normal;
+	padding-top: 2px
+}
+
+._3c00 {
+	float: right;
+	margin-right: 0
+}
+
+._3c00 a, ._3c00 span, ._2riv span {
+	color: #fff
+}
+
+._2riv a {
+	color: #fff;
+	font-weight: bold
+}
+
+._3c00 ._aop {
+	color: #fff
+}
+
+._26k {
+	margin: 80px 30px 0;
+	text-align: center
+}
+
+._26l {
+	color: #1d2129;
+	font-size: 15px;
+	font-weight: bold
+}
+
+._4kul {
+	word-wrap: break-word
+}
+
+#confirm_body {
+	padding: 5px
+}
+
+#confirm_body #confirm_progress {
+	text-align: center
+}
+
+#confirm_body #confirm_status {
+	margin: 5px 0 10px
+}
+
+#confirm_body #confirm_error {
+	margin: 0 0 10px
+}
+
+#confirm_body #error, #confirm_body #status {
+	margin: 10px 0
+}
+
+#confirm_body .editor {
+	margin: 10px auto
+}
+
+#confirm_body .instructions {
+	padding-bottom: 5px
+}
+
+#confirm_body .instruction_details {
+	padding-top: 5px;
+	margin-left: 10px
+}
+
+#confirm_body #confirm_intro {
+	padding-bottom: 10px
+}
+
+#confirm_body #code, #confirm_body #email {
+	width: 250px
+}
+
+#confirm_body #confirm {
+	margin-top: 3px
+}
+
+#confirm_body .help_links {
+	margin-top: 10px;
+	font-size: 10px
+}
+
+#confirm_resend input {
+	font-size: 10px
+}
+
+#confirm_email_container {
+	margin-bottom: 40px
+}
+
+#confirm_email_container .confirm_message {
+	padding: 10px 40px;
+	background-color: #fff
+}
+
+#confirm_email_container .confirm_buttons {
+	border-top: 0
+}
+
+#confirm_email_container .confirm_progress {
+	text-align: center
+}
+
+#confirm_email_container .confirm_help_box {
+	margin-top: 20px;
+	padding: 10px 40px
+}
+
+#confirm_email_container .help_links_title {
+	font-size: 13px;
+	font-weight: bold
+}
+
+#confirm_email_container .help_question {
+	margin-top: 10px;
+	font-weight: bold
+}
+
+#confirm_email_container .cliff_email_text {
+	margin-left: 4px
+}
+
+#confirm_email_container .contact_importer #befriend_selector,
+	#confirm_email_container .contact_importer #address_book_selector {
+	margin: 0 auto;
+	width: 520px
+}
+
+#confirm_email_container .contact_importer .contact_importer_widget {
+	margin: 20px auto;
+	border-top: 0;
+	width: 520px
+}
+
+.sidebarMode #fbChatErrorNub {
+	display: none
+}
+
+._1v_x {
+	margin-bottom: 10px
+}
+
+._1v_- {
+	margin-bottom: 10px;
+	margin-top: 4px
+}
+
+._1v__ {
+	margin-bottom: 12px
+}
+
+._1w00 {
+	margin-top: 5px
+}
+
+._3pj4 {
+	display: none
+}
+
+._192p {
+	margin-left: 192px;
+	width: 514px
+}
+
+._192r {
+	margin-left: 3px
+}
+
+._192s {
+	margin-bottom: 20px
+}
+
+._zdj {
+	margin-bottom: 20px;
+	margin-top: 20px
+}
+
+._4wkp {
+	color: #4b4f56;
+	margin-bottom: 290px;
+	margin-left: 192px;
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 532px
+}
+
+._4wkq, ._4wkr {
+	display: inline;
+	font-weight: bold
+}
+
+._9az {
+	margin-bottom: 4px
+}
+
+._4wks {
+	display: block;
+	margin-bottom: 2px;
+	vertical-align: middle
+}
+
+._9d1 {
+	background: transparent;
+	border: 0;
+	cursor: pointer;
+	opacity: 0;
+	-webkit-user-select: none
+}
+
+._9d2 {
+	display: inline-block
+}
+
+._9d2:hover ._9d1 {
+	opacity: 1
+}
+
+._9d6 {
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: -51px -275px;
+	display: inline-block;
+	height: 16px;
+	margin-top: -2px;
+	vertical-align: middle;
+	width: 16px
+}
+
+._9d6:hover {
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: -17px -88px
+}
+
+._k0 {
+	width: 100%
+}
+
+._k0 td {
+	padding: 5px 4px 7px 4px
+}
+
+._k1:hover {
+	background: #e9ebee
+}
+
+._k2 {
+	padding-left: 25px
+}
+
+._k3 {
+	border-right: 1px solid #e8ebf3;
+	width: 75%
+}
+
+table._k4 tr td {
+	padding-right: 20px
+}
+
+table._k4 tr td input {
+	font-size: 41px
+}
+
+._zfi {
+	float: left;
+	max-width: 50%
+}
+
+._zfi input {
+	font-size: 27px;
+	max-width: 100%
+}
+
+._zfj {
+	float: right;
+	max-width: 50%
+}
+
+._5dr0 {
+	font-size: 41px
+}
+
+._ye {
+	padding-left: 25px;
+	padding-top: 25px;
+	width: 50%
+}
+
+._41sx ._41sy {
+	border-right-width: 0
+}
+
+._41sx ._41s- {
+	border-radius: 0;
+	height: 22px;
+	line-height: 20px
+}
+
+.fbLoggedOutAccountBlock td {
+	vertical-align: middle
+}
+
+.fbLoggedOutAccountInfo {
+	width: 10000px
+}
+
+.fbLoggedOutAccountAuxContent {
+	text-align: right;
+	width: 50%
+}
+
+._1r36 {
+	position: relative
+}
+
+._5qs5 {
+	display: none
+}
+
+._vkh {
+	background: #fff;
+	border-radius: 3px
+}
+
+._km2 {
+	position: relative
+}
+
+._km3 {
+	background: linear-gradient(#ffffff, #f6f7f8);
+	background-clip: padding-box;
+	border: 1px solid rgba(0, 0, 0, .18);
+	border-radius: 12px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, .15);
+	color: #3b5998;
+	cursor: pointer;
+	display: table;
+	left: 50%;
+	line-height: 22px;
+	opacity: 0;
+	padding: 2px 12px 0 12px;
+	position: absolute;
+	top: 8px;
+	transform: translate(-50%, 0);
+	transition: visibility 250ms ease-in-out, opacity 250ms ease-in-out;
+	visibility: hidden
+}
+
+._2ywm ._km3 {
+	opacity: 1;
+	visibility: visible
+}
+
+.uiInterstitial {
+	border-radius: 4px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.uiInterstitialSmall {
+	width: 445px
+}
+
+.uiInterstitialLarge {
+	width: 555px
+}
+
+.uiInterstitial .interstitialHeader {
+	border-color: #ccc;
+	padding-bottom: .5em
+}
+
+.fullBleed .interstitialHeader {
+	margin: 0;
+	padding: 4px 12px 10px
+}
+
+.uiInterstitialContent {
+	margin-bottom: 15px
+}
+
+.fullBleed .uiInterstitialContent {
+	margin: 0;
+	padding: 0
+}
+
+.uiInterstitialBar {
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	line-height: 16px;
+	padding: 8px 10px
+}
+
+div.uiInterstitialWithStripes {
+	padding-top: 15px
+}
+
+#bootloader_3CGZA {
+	height: 42px;
+}
+
+.bootloader_3CGZA {
+	display: block !important;
+}
